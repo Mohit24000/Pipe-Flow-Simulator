@@ -1,0 +1,22 @@
+# Build and Dependency Directories
+**/node_modules/
+**/target/
+**/dist/
+
+# IDE and Editor Files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.suo
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and Environment
+*.log
+.env
+.env.local
+
